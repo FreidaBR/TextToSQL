@@ -1,4 +1,4 @@
-# SQLSense AI
+# TextToSQL Agent
 
 ## Multi-Agent Text-to-SQL Intelligent Assistant
 
