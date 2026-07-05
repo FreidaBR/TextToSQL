@@ -237,14 +237,8 @@ streamlit run app.py
 ---
 
 # Screenshots
+<img width="946" height="455" alt="image" src="https://github.com/user-attachments/assets/700cffcc-13d2-42c0-a78d-17af12340163" />
 
-Include screenshots of:
-
-- Home page
-- Agent workflow
-- Generated SQL
-- Query results
-- AI insights
 
 ---
 
