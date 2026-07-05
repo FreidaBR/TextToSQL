@@ -4,7 +4,7 @@ from orchestrator import SQLSenseOrchestrator
 
 st.set_page_config(page_title="SQLSense AI")
 
-st.title("🤖 SQLSense AI")
+st.title("TextToSQL")
 st.caption("Multi-Agent Text-to-SQL System")
 
 question = st.text_input(

@@ -19,3 +19,8 @@ class AgentContext:
         self.analysis = ""
 
         self.logs = []
+
+        # Retry-related fields
+        self.execution_error = ""
+        self.retry_count = 0
+        self.max_retries = 1
