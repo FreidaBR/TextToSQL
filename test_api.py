@@ -1,0 +1,16 @@
+import os
+import google.generativeai as genai
+from dotenv import load_dotenv
+
+load_dotenv()
+
+api_key = os.getenv("GEMINI_API_KEY")
+print("Key starts with:", api_key[:8])
+
+genai.configure(api_key=api_key)
+
+model = genai.GenerativeModel("gemini-2.5-flash")
+
+response = model.generate_content("Say hello in one sentence.")
+
+print(response.text)
