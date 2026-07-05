@@ -392,7 +392,8 @@ The application displays:
 ---
 
 # Screenshots
-<img width="946" height="455" alt="image" src="https://github.com/user-attachments/assets/700cffcc-13d2-42c0-a78d-17af12340163" />
+<img width="923" height="454" alt="image" src="https://github.com/user-attachments/assets/7ce4441d-e6fe-4d4f-8067-e35c395aa86d" />
+
 
 
 ---
