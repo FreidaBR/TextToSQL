@@ -4,7 +4,7 @@
 
 SQLSense AI is a multi-agent Text-to-SQL system that enables users to interact with relational databases using natural language. Instead of manually writing SQL queries, users can simply ask questions in plain English, and the system intelligently generates, validates, executes, and explains SQL queries.
 
-Developed as a **Proof of Concept (POC)** for the **WinWire AI Internship**, this project demonstrates how multiple AI agents can collaborate to perform intent extraction, schema understanding, SQL generation, validation, execution, automatic error recovery, and business insight generation.
+This project demonstrates how multiple AI agents can collaborate to perform intent extraction, schema understanding, SQL generation, validation, execution, automatic error recovery, and business insight generation.
 
 ---
 
@@ -402,6 +402,3 @@ The application displays:
 
 **Freida B Rodrigues**
 
-B.Tech Computer Science and Engineering
-
-Developed as a **Proof of Concept (POC)** for the **WinWire AI Internship**.
